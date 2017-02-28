@@ -88,31 +88,31 @@ html{
   background: #ddd;
 } `];
 
-// export const resumeContent = `任虹宇
-// ----
+export const resumeContent = `任虹宇
+----
 
-// 前端工程师，现在在 360-手机卫士 工作。
+前端工程师，现在在 360-手机卫士 工作。
 
-// 技能
-// ----
+技能
+----
 
-// * 前端开发
-// * php 开发
-// * Node.js 开发
-// * 会切个图
+* 前端开发
+* php 开发
+* Node.js 开发
+* 会切个图
 
-// 工作经历
-// ----
+工作经历
+----
 
-// 1. [饥人谷](http://jirengu.com)
-// 2. 腾讯即时通讯平台部
-// 3. 阿里巴巴B2B部门
-// 4. 彩程知人项目组
+1. [饥人谷](http://jirengu.com)
+2. 腾讯即时通讯平台部
+3. 阿里巴巴B2B部门
+4. 彩程知人项目组
 
-// 链接
-// ----
+链接
+----
 
-// * [GitHub](https://github.com/gitWhatever)
-// 参考自(https://github.com/jirengu-inc/animating-resume) 感谢！
+* [GitHub](https://github.com/gitWhatever)
+参考自(https://github.com/jirengu-inc/animating-resume) 感谢！
 
-// `
+`

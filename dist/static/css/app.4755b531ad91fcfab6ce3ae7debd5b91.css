@@ -1,15 +1,15 @@
 
-#app[data-v-685c2ce2] {
+#app[data-v-288975d1] {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-.code[data-v-3696a194] {
+.code[data-v-2ca90776] {
   display: none;
 }
 
-.htmlMode[data-v-7e72d9d4] {
+.htmlMode[data-v-2df95543] {
   animation: flip 2s;
 }
 @keyframes flip {
@@ -24,4 +24,4 @@ to {
 *{box-sizing: border-box;}
 *::before{box-sizing: border-box;}
 *::after{box-sizing: border-box;}
-/*# sourceMappingURL=app.d553437a8d3959de161c5353822951fe.css.map*/
+/*# sourceMappingURL=app.4755b531ad91fcfab6ce3ae7debd5b91.css.map*/
