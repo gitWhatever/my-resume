@@ -18,7 +18,7 @@
     },
     data() {
       return {
-        interval: 50,
+        interval: 40,
         currentStyle: '',
         enableHtml: false,
         fullStyle: styleContent,
@@ -37,6 +37,7 @@
         await this.progressivelyShowStyle(1)
         await this.showHtml()
         await this.progressivelyShowStyle(2)
+        await this.progressivelyShowStyle(3)
       },
       showHtml: function () {
         return new Promise((resolve, reject) => {
@@ -67,6 +68,8 @@
             }
           }).bind(this)
           showStyle()
+          // this.currentStyle = this.fullStyle.filter((_, index) => index <= n).join('')
+          // resolve()
         })
       },
       progressivelyShowResume() {
@@ -78,7 +81,6 @@
               this.currentMarkdown = this.fullMarkdown.substring(0, this.currentMarkdown.length + 1)
               let lastChar = this.currentMarkdown[this.currentMarkdown.length - 1]
               let prevChar = this.currentMarkdown[this.currentMarkdown.length - 2]
-              console.log(prevChar)
               if (prevChar === '\n' && this.$refs.resumeEditor) {
                 this.$nextTick(() => this.$refs.resumeEditor.goBottom())
               }

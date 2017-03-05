@@ -1,5 +1,5 @@
 <template>
-  <div class="styleEditor" ref="container">
+  <div class="styleEditor editor" ref="container">
     <div class="code" v-html="codeInStyleTag"></div>
     <pre class="" v-html="highlightedCode"></pre>
   </div>
