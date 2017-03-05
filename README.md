@@ -1,4 +1,4 @@
-# 参考https://github.com/jirengu-inc/animating-resume打造的自己的简历
+## 参考[animating-resume](https://github.com/jirengu-inc/animating-resume)打造的自己的简历
 
 > This is my resume
 
