@@ -1,6 +1,6 @@
-# 一个会动的简历模板
+# 参考https://github.com/jirengu-inc/animating-resume打造的自己的简历
 
 > This is my resume
 
-[预览](https://github.com/gitWhatever)
+[预览](https://gitwhatever.github.io/my-resume/dist/)
 

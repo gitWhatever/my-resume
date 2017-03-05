@@ -2,7 +2,7 @@ export const styleContent = [`/*
 * 之前逛github，发现一个有意思的项目叫animating-resume，
 * 觉得很有意思，下载下来发现是用vue写的
 * so easy ，仿造它来打造我的简历吧
-* 说做就做，我也来写一份简历！
+* 为了保证效果，最好在谷歌浏览器打开
 */
 
 /* 首先给所有元素加上过渡效果 */
